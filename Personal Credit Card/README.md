@@ -15,7 +15,7 @@
 
 ## 🗂️ Mô tả Dataset
 
-**File:** `credit_card_transactions.csv` 
+**File:** `credit_card_transactions.csv`  
 **Số dòng:** More than 1.000.000 rows 
 
 | Cột | Kiểu dữ liệu | 
