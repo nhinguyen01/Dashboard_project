@@ -9,12 +9,13 @@ Each project in this repo is presented as a standalone dashboard, designed to ex
 ## 📁 Files Included (Updating)
 
 ```              
-├── Banking
-├── MarketingCampain
-├── F&B
-├── Product Manufacturing
+- Banking
+- Marketing Campaign  
+- F&B
+- Personal Credit Card  
+- Product Manufacturing
+- Retail
                    
-
 ```
 
 ## 📝 Tools 
