@@ -6,14 +6,9 @@
 ## 📁 Files Included
 
 ```              
-├── Banking
-│   ├── README.md               
-│   └── image.png
-│   └── dataset                      
+- `Banking` – Tableau project file
+- `image.png` – Dashboard preview image                
 
 ```
 
-## 📝 Tools
-
-- **Tableau**
 
